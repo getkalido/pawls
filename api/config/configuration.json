@@ -66,16 +66,8 @@
             "color": "#F5A25D"
         },
         {
-            "text": "Contact Details Section",
-            "color": "#28ABB9"
-        },
-        {
-            "text": "Biography Section",
+            "text": "Biography",
             "color": "#706897"
-        },
-        {
-            "text": "Skills Section",
-            "color": "#34626C"
         },
         {
             "text": "Work History Entry",
@@ -83,7 +75,7 @@
         },
         {
             "text": "Education Entry",
-            "color": "#642396"
+            "color": "#C7C2EB"
         },
         {
             "text": "Certification Entry",
