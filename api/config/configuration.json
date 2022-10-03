@@ -30,10 +30,6 @@
             "color": "#CEEBFC"
         },
         {
-            "text": "Job Description",
-            "color": "#C6CC82"
-        },
-        {
             "text": "Start Date",
             "color": "#BFBFBF"
         },
@@ -82,24 +78,12 @@
             "color": "#34626C"
         },
         {
-            "text": "Work History Section",
-            "color": "#70DDBA"
-        },
-        {
             "text": "Work History Entry",
             "color": "#B8236F"
         },
         {
-            "text": "Education History Section",
-            "color": "#A823A8"
-        },
-        {
             "text": "Education Entry",
             "color": "#642396"
-        },
-        {
-            "text": "Certification Section",
-            "color": "#112377"
         },
         {
             "text": "Certification Entry",
