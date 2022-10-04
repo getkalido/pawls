@@ -18,12 +18,12 @@
             "color": "#64ED96"
         },
         {
-            "text": "Company Name",
-            "color": "#FFDA77"
+            "text": "Location",
+            "color": "#B2FFA7"
         },
         {
-            "text": "Skill",
-            "color": "#D9E4DD"
+            "text": "Company Name",
+            "color": "#FFDA77"
         },
         {
             "text": "Job Title",
@@ -40,10 +40,6 @@
         {
             "text": "Other Date",
             "color": "#EFDDF5"
-        },
-        {
-            "text": "Industry",
-            "color": "#C7C2EB"
         },
         {
             "text": "University/Institution Name",
@@ -67,11 +63,11 @@
         },
         {
             "text": "Biography",
-            "color": "#706897"
+            "color": "#90AA97"
         },
         {
             "text": "Work History Entry",
-            "color": "#B8236F"
+            "color": "#B8CC6F"
         },
         {
             "text": "Education Entry",
