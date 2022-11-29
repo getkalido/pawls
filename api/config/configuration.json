@@ -2,72 +2,68 @@
     "output_directory": "/skiff_files/apps/pawls/papers/",
     "labels": [
         {
-            "text": "Person Name",
+            "text": "Section Title",
             "color": "#70DDBA"
         },
         {
-            "text": "Email",
+            "text": "Name",
             "color": "#B8DE6F"
         },
         {
-            "text": "Phone Number",
+            "text": "Email",
             "color": "#A8DDA8"
         },
         {
-            "text": "Link",
+            "text": "Phone",
             "color": "#64ED96"
         },
         {
-            "text": "Location",
+            "text": "Biography",
             "color": "#B2FFA7"
         },
         {
-            "text": "Company Name",
+            "text": "CV Column",
             "color": "#FFDA77"
         },
         {
-            "text": "Job Title",
+            "text": "Link",
             "color": "#CEEBFC"
         },
         {
-            "text": "Start Date",
+            "text": "Job Title",
             "color": "#BFBFBF"
         },
         {
-            "text": "End Date",
+            "text": "Company",
             "color": "#D6D2C4"
         },
         {
-            "text": "Other Date",
+            "text": "Location",
             "color": "#EFDDF5"
         },
         {
             "text": "University/Institution Name",
-            "color": "#CFD4DF"
+            "color": "#FFB2A7"
         },
         {
             "text": "Degree Name",
+            "color": "#FFB2A7"
+        },
+        {
+            "text": "Start Date",
+            "color": "#CFD4DF"
+        },
+        {
+            "text": "End Date",
             "color": "#2F85F7"
         },
         {
-            "text": "Certification Name",
-            "color": "#FFB2A7"
-        },
-        {
-            "text": "Code/Identifier",
-            "color": "#FFB2A7"
-        },
-        {
-            "text": "Section Title",
+            "text": "Work History Entry",
             "color": "#F5A25D"
         },
         {
-            "text": "Biography",
+            "text": "Project Entry",
             "color": "#90AA97"
-        },
-        {
-            "text": "Work History Entry",
-            "color": "#B8CC6F"
         },
         {
             "text": "Education Entry",
@@ -76,6 +72,10 @@
         {
             "text": "Certification Entry",
             "color": "#FF2377"
+        },
+        {
+            "text": "Continuation",
+            "color": "#FFFF77"
         }
     ],
     "relations": [],
